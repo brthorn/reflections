@@ -10,10 +10,15 @@ What value do you think it offers?
 	
 How can you use the staging area to make sure you have one commit per logical change?
 		
-		While in the staging area, the user can see if the changes being made are logical, and if so continue with
-		the commit
+	While in the staging area, the user can see if the changes being made are logical, and if so continue with
+	the commit
 		
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?		
 	
 	Branches would be helpful when you want to make a different version of the code or game, but still keep the original
 	game.
+
+How do the diagrams help you visualize the branch structure?
+		
+	Diagrams help by showing visually where branches are, that way it is easier to know what updates will be in the 
+	branch or not.
