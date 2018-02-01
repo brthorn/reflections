@@ -7,3 +7,8 @@ What value do you think it offers?
 
 	Staging area allows the user to add specific things to be committed, while the working directory 
 	has the files and their commits. It allows the user to make logical commits and see changes.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+		
+		While in the staging area, the user can see if the changes being made are logical, and if so continue with
+		the commit
