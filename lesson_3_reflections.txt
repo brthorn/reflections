@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones allow a person to use other's data, but the remote is still pointing to the original's work.
 	Branches are made locally to branch off the master in case a person wants to try experimenting with their
 	code without messing up the working master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+		
+	To know if any changes have been made by others other than yourself.
